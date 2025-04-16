@@ -33,7 +33,7 @@ Este notebook demonstra como aplicar análise de sentimentos em textos utilizand
 ## 🧠 Referências
 
 - [Documentação oficial do VADER](https://github.com/cjhutto/vaderSentiment)
-- Curso de NLP com Python (se aplicável)
+- Curso de NLP com Python
 
 ---
 
